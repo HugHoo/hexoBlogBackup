@@ -74,3 +74,15 @@ deploy:
 
 # avatar
 avatar: /images/avatar.png
+
+# Social links
+social:
+  GitHub: https://github.com/HugHoo
+  知乎: https://www.zhihu.com/people/hugo_hoo_/activities
+
+# Social Icons
+social_icons:
+  enable: true
+  # Icon Mappings
+  GitHub: github
+  知乎: global

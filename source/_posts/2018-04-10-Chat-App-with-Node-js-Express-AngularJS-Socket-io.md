@@ -15,7 +15,21 @@ categories:
 
 大二暑期在深圳实习，上班时间偷偷学习MEAN架构（MongoDB, Express, AngularJS, Node.js），写了个简单的聊天系统。
 
-Github：[github.com/HugHoo/Chat](github.com/HugHoo/Chat)
+Github：[https://github.com/HugHoo/Chat](https://github.com/HugHoo/Chat)
+
+## 总览
+
+![just chat](https://raw.githubusercontent.com/HugHoo/Miscellaneous/master/Images/Chat/start.gif)
+
+**Private mode**
+
+![private mode](https://raw.githubusercontent.com/HugHoo/Miscellaneous/master/Images/Chat/privateMode.gif)
+
+**Keyboard shortcuts**
+
+![shortcuts](https://raw.githubusercontent.com/HugHoo/Miscellaneous/master/Images/Chat/shortcut.gif)
+
+<!-- more -->
 
 主要技术
 - Node.js
@@ -27,18 +41,6 @@ CSS framework
 
 Third-party lib
 - [Socket.io](https://socket.io/)
-
-## 总览
-
-![just chat](https://raw.githubusercontent.com/HugHoo/Miscellaneous/master/Images/Chat/start.gif)
-
-Private mode
-
-![private mode](https://raw.githubusercontent.com/HugHoo/Miscellaneous/master/Images/Chat/privateMode.gif)
-
-Keyboard shortcuts 
-
-![shortcuts](https://raw.githubusercontent.com/HugHoo/Miscellaneous/master/Images/Chat/shortcut.gif)
 
 ## 安装
 

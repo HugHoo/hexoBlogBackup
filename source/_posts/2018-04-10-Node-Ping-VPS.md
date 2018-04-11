@@ -12,7 +12,9 @@ categories:
 
 ## 简介
 
-工作学习娱乐离不开ss，但ss偶尔会因为某个服务器地址暂时失效而挂掉，用Node.js写了个批量ping服务器地址的小程序，蛮实用的。
+工作学习娱乐离不开ss，但ss偶尔会因为某个服务器地址暂时失效而挂掉，于是用Node.js写了个批量ping服务器地址的小程序，蛮实用的。
+
+Github: [https://github.com/HugHoo/node-ping-vps](https://github.com/HugHoo/node-ping-vps)
 
 ## 总览
 
@@ -20,7 +22,7 @@ categories:
 
 <!-- more -->
 
-<br/>
+<br>
 
 主要技术：
 - Node.js
